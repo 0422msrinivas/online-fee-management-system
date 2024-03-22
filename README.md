@@ -31,6 +31,8 @@ Import the SQL file located in the database folder of the source code.
 Copy and paste the source code to the location where your local web server accessing your local projects. Example for XAMPP('C:\xampp\htdocs')
 Open a web browser and browse the project. E.g [http://localhost/school-fees-payment-system]
 Admin Default Access
+
+
 Username: admin
 
 Password: admin123
